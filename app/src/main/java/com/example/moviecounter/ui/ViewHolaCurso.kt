@@ -21,7 +21,7 @@ fun ViewHolaCurso() {
             .padding(16.dp),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
-        Text(text = "Hola Curso!", fontSize = 30.sp)
+        Text(text = "Hola Curso! (Cambio A)", fontSize = 30.sp)
         Spacer(modifier = Modifier.height(12.dp))
         Text(text = "Bienvenido a MovieCounter")
     }
